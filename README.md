@@ -5,4 +5,4 @@ List of Ducky Scripts converted in arduino code, made for the Digispark USB deve
 </p>
 
 
->I originally wrote it in Ducky Script, then I converted it in Arduino code using [Duckify](https://duckify.huhn.me/)
+>I originally write scripts in Ducky Script, then I convert them in Arduino code using [Duckify](https://duckify.huhn.me/)
